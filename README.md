@@ -1,6 +1,9 @@
 # awesome-spacemesh
 A crowdsourced list of Spacemesh-related resources and utilities. Feel free to open a pull request with contributions.
 
+## Official Resources
+- [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
+
 ## Economics
 - [Spacemesh Calculator](https://www.spacemeshcalculator.com/)
 
