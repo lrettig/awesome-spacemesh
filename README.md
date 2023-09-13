@@ -10,6 +10,8 @@ The following are official Spacemesh project resources:
 - [Spacemesh Twitter](https://twitter.com/teamspacemesh)
 
 ## Official Resources
+- [Network Dashboard](https://dash.spacemesh.io/)
+- [Network Explorer](https://explorer.spacemesh.io/overview)
 - [Protocol Docs](https://github.com/spacemeshos/platform-docs/blob/main/docs/protocol/overview.md) (Out of date)
 - [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
 
