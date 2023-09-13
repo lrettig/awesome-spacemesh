@@ -4,6 +4,7 @@ A crowdsourced list of Spacemesh-related resources and utilities. Feel free to o
 ## Official Channels
 - [Spacemesh Blog](https://spacemesh.io/blog)
 - [Spacemesh Discord](https://chat.spacemesh.io/)
+- [Spacemesh GitHub](https://github.com/spacemeshos/)
 - [Spacemesh Twitter](https://twitter.com/teamspacemesh)
 
 ## Official Resources
