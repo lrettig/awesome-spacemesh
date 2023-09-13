@@ -7,6 +7,7 @@ A crowdsourced list of Spacemesh-related resources and utilities. Feel free to o
 - [Spacemesh Twitter](https://twitter.com/teamspacemesh)
 
 ## Official Resources
+- [Protocol Docs](https://github.com/spacemeshos/platform-docs/blob/main/docs/protocol/overview.md) (Out of date)
 - [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
 
 ## Economics
