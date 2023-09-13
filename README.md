@@ -16,7 +16,6 @@ The following are official Spacemesh project resources:
 The following are unofficial community contributions. Note: I cannot vouch for the accuracy of any of these resources:
 
 ## Articles
-- [Adjusting the Size of Your POST Data File in Spacemesh](https://medium.com/@benttick/adjusting-the-size-of-your-data-file-in-spacemesh-a-comprehensive-guide-b92bc136af0a)
 - [Spacemesh: Cryptocurrency for the People](https://blog.fabioiotti.com/posts/spacemesh-cryptocurrency-for-the-people/)
 - [Three Things: on Spacemesh](https://rettig.substack.com/t/spacemesh)
 - [TickTockBent on Medium](https://medium.com/@benttick) (several articles)
