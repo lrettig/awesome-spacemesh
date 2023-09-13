@@ -17,7 +17,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Articles
 - [Spacemesh: Cryptocurrency for the People](https://blog.fabioiotti.com/posts/spacemesh-cryptocurrency-for-the-people/)
-- [Three Things: on Spacemesh](https://rettig.substack.com/t/spacemesh)
+- [Three Things: on Spacemesh](https://rettig.substack.com/t/spacemesh) (several articles)
 - [TickTockBent on Medium](https://medium.com/@benttick) (several articles)
 
 ## Economics
