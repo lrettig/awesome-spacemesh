@@ -30,6 +30,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Reward Tracker (iOS)](https://apps.apple.com/pt/app/spacemesh-reward-tracker/id6463492791)
 
 ## Utilities
+- [Calendar](https://calendar.google.com/calendar/embed?src=8895d862c4a9ac22c8da2dafd9c618cd47e5c2d22905f920b1231a3b02aacd62%40group.calendar.google.com) (Contains epochs, PoET rounds, etc.)
 - [PowerScript (Windows)](https://github.com/xeliuqa/PowerScript)
 - [shibamesh-post-key-generator](https://github.com/DogeMonster/shibamesh-post-key-generator)
 - [SmeshCloud (has a number of scripts and utilities)](https://github.com/smeshcloud)
