@@ -12,5 +12,5 @@ A crowdsourced list of Spacemesh-related resources and utilities. Feel free to o
 ## Economics
 - [Spacemesh Calculator](https://www.spacemeshcalculator.com/)
 
-## GPU benchmarks
+## Hardware
 - [Spacemesh Initialization/Proofing Speed Calculator (Unofficial)](https://docs.google.com/spreadsheets/d/1X_E7H9EFdLoEZ8IHwm1ApcnlZ6VtBCWwSMOJIw2rytI/edit#gid=822058896)
