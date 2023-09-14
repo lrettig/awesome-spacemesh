@@ -5,9 +5,11 @@ The following are official Spacemesh project resources:
 
 ## Official Channels
 - [Spacemesh Blog](https://spacemesh.io/blog)
+- [Spacemesh Community Discourse and Research Forum](https://community.spacemesh.io/)
 - [Spacemesh Discord](https://chat.spacemesh.io/)
 - [Spacemesh GitHub](https://github.com/spacemeshos/)
 - [Spacemesh Twitter](https://twitter.com/teamspacemesh)
+- [Spacemesh Website](https://spacemesh.io/)
 
 ## Official Resources
 - [Network Dashboard](https://dash.spacemesh.io/)
