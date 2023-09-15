@@ -20,6 +20,7 @@ The following are official Spacemesh project resources:
 The following are unofficial community contributions. Note: I cannot vouch for the accuracy of any of these resources:
 
 ## Articles
+- [Efficient Spacemesh Mining with Multiple GPUs](https://simeononsecurity.ch/other/efficient-spacemesh-mining-multiple-gpus-guide/)
 - [Spacemesh: Cryptocurrency for the People](https://blog.fabioiotti.com/posts/spacemesh-cryptocurrency-for-the-people/)
 - [Three Things: on Spacemesh](https://rettig.substack.com/t/spacemesh) (several articles)
 - [TickTockBent on Medium](https://medium.com/@benttick) (several articles)
