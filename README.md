@@ -42,12 +42,12 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Calendar](https://calendar.google.com/calendar/embed?src=8895d862c4a9ac22c8da2dafd9c618cd47e5c2d22905f920b1231a3b02aacd62%40group.calendar.google.com) (Contains epochs, PoET rounds, etc.)
 - [PowerScript (Windows)](https://github.com/xeliuqa/PowerScript)
 - [shibamesh-post-key-generator](https://github.com/DogeMonster/shibamesh-post-key-generator)
-- [SMEligibilities](http://fcmx.net/sm-eligibilities/) (Reward tracker)
 - [SmeshCloud (has a number of scripts and utilities)](https://github.com/smeshcloud)
 - [SmeshLogParser](https://github.com/Dumraden/SmeshLogParser)
 - [Smesh Planner](https://mango-island-076ed581e.3.azurestaticapps.net/) (Estimate proof generation time, required drive read speed, etc.)
 - [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
 - [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
+- [SpaceMesh Lamba Chunks/SMEligibilities](http://fcmx.net/sm-eligibilities/) (Reward tracker)
 
 ## Videos
 - [Hake Hardware Spacemesh Series](https://www.youtube.com/playlist?list=PLVZMcKC69GpyzYjQld8xv5ZpdePfyFMUm)
