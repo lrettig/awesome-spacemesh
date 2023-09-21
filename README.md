@@ -38,6 +38,11 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Reward Tracker (Android)](https://play.google.com/store/apps/details?id=io.swarmbit.spacemesh_reward_tracker)
 - [Reward Tracker (iOS)](https://apps.apple.com/pt/app/spacemesh-reward-tracker/id6463492791)
 
+## Monitoring
+- [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
+- [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
+- [Super cool grafana dashboard for spacemesh](https://www.youtube.com/watch?v=QxI6hPGHSUU)
+
 ## Utilities
 - [Calendar](https://calendar.google.com/calendar/embed?src=8895d862c4a9ac22c8da2dafd9c618cd47e5c2d22905f920b1231a3b02aacd62%40group.calendar.google.com) (Contains epochs, PoET rounds, etc.)
 - [PowerScript (Windows)](https://github.com/xeliuqa/PowerScript)
@@ -45,8 +50,6 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [SmeshCloud (has a number of scripts and utilities)](https://github.com/smeshcloud)
 - [SmeshLogParser](https://github.com/Dumraden/SmeshLogParser)
 - [Smesh Planner](https://mango-island-076ed581e.3.azurestaticapps.net/) (Estimate proof generation time, required drive read speed, etc.)
-- [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
-- [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
 - [SpaceMesh Lamba Chunks/SMEligibilities](http://fcmx.net/sm-eligibilities/) (Reward tracker)
 
 ## Videos
