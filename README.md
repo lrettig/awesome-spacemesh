@@ -10,6 +10,8 @@ The following are official Spacemesh project resources:
 - [Spacemesh GitHub](https://github.com/spacemeshos/)
 - [Spacemesh Twitter](https://twitter.com/teamspacemesh)
 - [Spacemesh Website](https://spacemesh.io/)
+- [Spacemesh YouTube](https://www.youtube.com/@Teamspacemesh)
+- [Telegram channel](https://t.me/spacemeshio) (announcement only)
 
 ## Official Resources
 - [Network Dashboard](https://dash.spacemesh.io/)
