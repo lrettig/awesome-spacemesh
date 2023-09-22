@@ -16,6 +16,7 @@ The following are official Spacemesh project resources:
 ## Official Resources
 - [Network Dashboard](https://dash.spacemesh.io/)
 - [Network Explorer](https://explorer.spacemesh.io/overview)
+- [PoET Operator manual](https://github.com/spacemeshos/poet/blob/develop/docs/poet_operator_manual.md)
 - [Protocol Docs](https://github.com/spacemeshos/platform-docs/blob/main/docs/protocol/overview.md) (Out of date)
 - [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
 
