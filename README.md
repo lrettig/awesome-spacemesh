@@ -20,6 +20,11 @@ The following are official Spacemesh project resources:
 - [Protocol Docs](https://github.com/spacemeshos/platform-docs/blob/main/docs/protocol/overview.md) (Out of date)
 - [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
 
+## Official Announcements/Blog Posts
+- [Announcing the Spacemesh Economic Model](https://spacemesh.io/blog/spacemesh-economics-intro/)
+- [Outline of the Spacemesh VM Design](https://spacemesh.io/blog/outline-of-the-spacemesh-vm-design/)
+- [Spacemesh Issuance Schedule](https://spacemesh.io/blog/spacemesh-issuance-schedule/)
+
 The following are unofficial community contributions. Note: I cannot vouch for the accuracy of any of these resources:
 
 ## Articles
