@@ -15,6 +15,7 @@ The following are official Spacemesh project resources:
 
 ## Official Resources
 - [Economics](https://github.com/spacemeshos/economics) (Official, source of truth economic model, code, simulator, and breakdown of the economic model)
+- [Integration Guide](https://github.com/spacemeshos/wiki/wiki/Integration-guide)
 - [Network Dashboard](https://dash.spacemesh.io/)
 - [Network Explorer](https://explorer.spacemesh.io/overview)
 - [PoET Operator manual](https://github.com/spacemeshos/poet/blob/develop/docs/poet_operator_manual.md)
