@@ -50,6 +50,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Reward Tracker (iOS)](https://apps.apple.com/pt/app/spacemesh-reward-tracker/id6463492791)
 
 ## Monitoring
+- [nodeCurl](https://github.com/xeliuqa/nodeCurl) (for Windows)
 - [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
 - [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
 - [Super cool grafana dashboard for spacemesh](https://www.youtube.com/watch?v=QxI6hPGHSUU)
