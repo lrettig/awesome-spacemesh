@@ -67,4 +67,5 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Videos
 - [Hake Hardware Spacemesh Series](https://www.youtube.com/playlist?list=PLVZMcKC69GpyzYjQld8xv5ZpdePfyFMUm)
+- [Harddrive Mining](https://www.youtube.com/playlist?list=PLMIrczK2npiczpDDt7EPeEYCkVAJev8BG)
 - [Miner on Demand Spacemesh Series](https://www.youtube.com/watch?v=9MBsPtKA3lQ&list=PLqcaCh7k-bmUNu1eEic2VbYe-QW7sCWlb)
