@@ -40,6 +40,10 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 ## Economics
 - [Spacemesh Calculator](https://www.spacemeshcalculator.com/)
 
+## Explorers
+- [Spacemesh Explorer](https://smh.dwd.com/)
+- [Tater Tracker](https://www.tater-tracker.com/)
+
 ## Hardware Benchmarks
 - [RandomX CPU Benchmark](https://xmrig.com/benchmark) (RandomX is used in k2pow, see [Proof Generation](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide#proof-generation))
 - [Spacemesh Initialization/Proofing Speed Calculator (Unofficial)](https://docs.google.com/spreadsheets/d/1X_E7H9EFdLoEZ8IHwm1ApcnlZ6VtBCWwSMOJIw2rytI/edit#gid=822058896)
