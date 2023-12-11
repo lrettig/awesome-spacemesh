@@ -1,5 +1,5 @@
 # awesome-spacemesh
-A crowdsourced list of Spacemesh-related resources and utilities. Feel free to open a pull request with contributions.
+A crowdsourced list of Spacemesh-related resources and utilities. This is a personal project and is not maintained by the Spacemesh development company, nor are its contents reviewed or endorsed by the company. Feel free to open a pull request with contributions.
 
 The following are official Spacemesh project resources:
 
@@ -22,12 +22,16 @@ The following are official Spacemesh project resources:
 - [Protocol Docs](https://github.com/spacemeshos/platform-docs/blob/main/docs/protocol/overview.md) (Out of date)
 - [Smesher Guide](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide)
 
+## Official Wallets
+- [Smapp](https://github.com/spacemeshos/smapp/releases)
+- [`smcli`](https://github.com/spacemeshos/smcli/releases)
+
 ## Official Announcements/Blog Posts
 - [Announcing the Spacemesh Economic Model](https://spacemesh.io/blog/spacemesh-economics-intro/)
 - [Outline of the Spacemesh VM Design](https://spacemesh.io/blog/outline-of-the-spacemesh-vm-design/)
 - [Spacemesh Issuance Schedule](https://spacemesh.io/blog/spacemesh-issuance-schedule/)
 
-The following are unofficial community contributions. Note: I cannot vouch for the accuracy of any of these resources:
+The following are unofficial community contributions. Note: I cannot vouch for the accuracy or security of any of these resources. Do your own research and use with caution!
 
 ## Articles
 - [Enabling Systemd for Go Spacemesh](https://hakedev.substack.com/p/enabling-systemd-for-go-spacemesh)
@@ -39,6 +43,12 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Economics
 - [Spacemesh Calculator](https://www.spacemeshcalculator.com/)
+
+## Exchanges
+- [BingX](https://bingx.com/en-us/spot/SMHUSDT/)
+- [Exbitron](https://trade.exbitron.com/trade?market=smh-usdt)
+- [SafeTrade](https://safe.trade/exchange/SMH-USDT?type=basic)
+- [xt.com](https://www.xt.com/en/trade/smh_usdt)
 
 ## Explorers
 - [Spacemesh Explorer](https://smh.dwd.com/)
@@ -60,6 +70,11 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
 - [Super cool grafana dashboard for spacemesh](https://www.youtube.com/watch?v=QxI6hPGHSUU)
 
+## Research Platforms
+- [CoinGecko](https://www.coingecko.com/en/coins/spacemesh)
+- [coinpaprika](https://coinpaprika.com/coin/smh-spacemesh/)
+- [Messari](https://messari.io/project/spacemesh/profile)
+
 ## Utilities
 - [Calendar](https://calendar.google.com/calendar/embed?src=8895d862c4a9ac22c8da2dafd9c618cd47e5c2d22905f920b1231a3b02aacd62%40group.calendar.google.com) (Contains epochs, PoET rounds, etc.)
 - [plotmon](https://github.com/hakehardware/plotmon) (Monitors a Spacemesh Plotter)
@@ -75,3 +90,6 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Hake Hardware Spacemesh Series](https://www.youtube.com/playlist?list=PLVZMcKC69GpyzYjQld8xv5ZpdePfyFMUm)
 - [Harddrive Mining](https://www.youtube.com/playlist?list=PLMIrczK2npiczpDDt7EPeEYCkVAJev8BG)
 - [Miner on Demand Spacemesh Series](https://www.youtube.com/watch?v=9MBsPtKA3lQ&list=PLqcaCh7k-bmUNu1eEic2VbYe-QW7sCWlb)
+
+## Wallets
+- [FoxWallet](https://foxwallet.com/)
