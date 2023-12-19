@@ -36,6 +36,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 ## Articles
 - [Enabling Systemd for Go Spacemesh](https://hakedev.substack.com/p/enabling-systemd-for-go-spacemesh)
 - [Efficient Spacemesh Mining with Multiple GPUs](https://simeononsecurity.ch/other/efficient-spacemesh-mining-multiple-gpus-guide/)
+- [Public & Private Nodes on Docker](https://hakedev.substack.com/p/public-and-private-nodes-on-docker) ([Hake Hardware](https://hakedev.substack.com/), several articles)
 - [Reduce Spacemesh Node Traffic](https://hakehw.smeshi.com/2023/09/12/reduce-spacemesh-node-traffic/) (Explains how to configure public and private nodes)
 - [Spacemesh: Cryptocurrency for the People](https://blog.fabioiotti.com/posts/spacemesh-cryptocurrency-for-the-people/)
 - [Three Things: on Spacemesh](https://rettig.substack.com/t/spacemesh) (several articles)
