@@ -36,7 +36,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 ## Articles
 - [Enabling Systemd for Go Spacemesh](https://hakedev.substack.com/p/enabling-systemd-for-go-spacemesh)
 - [Efficient Spacemesh Mining with Multiple GPUs](https://simeononsecurity.ch/other/efficient-spacemesh-mining-multiple-gpus-guide/)
-- [How to run multiple Spacemesh nodes in MacOS](https://dafacto.com/2023/how-to-run-multiple-spacemesh-nodes-on-macos)
+- [How to run multiple Spacemesh nodes in MacOS, using a cloud provider to create your postdata](https://dafacto.com/2023/how-to-run-multiple-spacemesh-nodes-on-macos)
 - [Public & Private Nodes on Docker](https://hakedev.substack.com/p/public-and-private-nodes-on-docker) ([Hake Hardware](https://hakedev.substack.com/), several articles)
 - [Reduce Spacemesh Node Traffic](https://hakehw.smeshi.com/2023/09/12/reduce-spacemesh-node-traffic/) (Explains how to configure public and private nodes)
 - [Spacemesh: Cryptocurrency for the People](https://blog.fabioiotti.com/posts/spacemesh-cryptocurrency-for-the-people/)
@@ -68,6 +68,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 ## Monitoring
 - [nodeCurl](https://github.com/xeliuqa/nodeCurl) (for Windows)
 - [nodemon](https://github.com/hakehardware/nodemon) (Python, cross-platform)
+- [SM-Monitor](https://github.com/xeliuqa/SM-Monitor) (for Windows)
 - [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
 - [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
 - [Super cool grafana dashboard for spacemesh](https://www.youtube.com/watch?v=QxI6hPGHSUU)
