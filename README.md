@@ -96,3 +96,4 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Wallets
 - [FoxWallet](https://foxwallet.com/)
+- [SmeshWallet](https://smeshwallet.com) — SmeshWallet is your free, simple and easy-to-use browser-based wallet for receiving, holding and sending SMH, the coin of the Spacemesh project.
