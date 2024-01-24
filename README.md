@@ -95,5 +95,5 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Miner on Demand Spacemesh Series](https://www.youtube.com/watch?v=9MBsPtKA3lQ&list=PLqcaCh7k-bmUNu1eEic2VbYe-QW7sCWlb)
 
 ## Wallets
-- [SmeshWallet](https://smeshwallet.com) — SmeshWallet is your free, simple and easy-to-use browser-based wallet for receiving, holding and sending SMH, the coin of the Spacemesh project.
 - [FoxWallet](https://foxwallet.com/)
+- [SmeshWallet](https://smeshwallet.com) — SmeshWallet is your free, simple and easy-to-use browser-based wallet for receiving, holding and sending SMH, the coin of the Spacemesh project.
