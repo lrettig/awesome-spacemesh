@@ -56,6 +56,9 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Spacemesh Explorer](https://smh.dwd.com/)
 - [Tater Tracker](https://www.tater-tracker.com/)
 
+## Guides
+- [Spacemesh FYI](https://spacemesh.fyi/) ("Spacemesh in 5 minutes")
+
 ## Hardware Benchmarks
 - [RandomX CPU Benchmark](https://xmrig.com/benchmark) (RandomX is used in k2pow, see [Proof Generation](https://github.com/spacemeshos/wiki/wiki/Smesher-Guide#proof-generation))
 - [Spacemesh Initialization/Proofing Speed Calculator (Unofficial)](https://docs.google.com/spreadsheets/d/1X_E7H9EFdLoEZ8IHwm1ApcnlZ6VtBCWwSMOJIw2rytI/edit#gid=822058896)
@@ -97,4 +100,4 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Wallets
 - [FoxWallet](https://foxwallet.com/)
-- [SmeshWallet](https://smeshwallet.com) — SmeshWallet is your free, simple and easy-to-use browser-based wallet for receiving, holding and sending SMH, the coin of the Spacemesh project.
+- [SmeshWallet](https://smeshwallet.com) (SmeshWallet is your free, simple and easy-to-use browser-based wallet for receiving, holding and sending SMH, the coin of the Spacemesh project.)
