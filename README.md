@@ -71,7 +71,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 ## Monitoring
 - [nodeCurl](https://github.com/xeliuqa/nodeCurl) (for Windows)
 - [nodemon](https://github.com/hakehardware/nodemon) (Python, cross-platform)
-- [SM-Monitor](https://github.com/xeliuqa/SM-Monitor) (for Windows)
+- [SM-Monitor](https://github.com/xeliuqa/SM-Monitor) (for Powershell on Windows and Linux)
 - [SMH-Info-Dump](https://github.com/Thanos420NoScope/SMH-Info-Dump) (Using prometheus; contains info on systemd services and node config)
 - [spacemesh-dashboard](https://github.com/BlackBlocks-io/spacemesh-dashboard)
 - [Super cool grafana dashboard for spacemesh](https://www.youtube.com/watch?v=QxI6hPGHSUU)
