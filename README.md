@@ -48,7 +48,8 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Exchanges
 - [BingX](https://bingx.com/en-us/spot/SMHUSDT/)
-- [Exbitron](https://trade.exbitron.com/trade?market=smh-usdt)
+- [Gate](https://www.gate.io/trade/SMH_USDT)
+- [KuCoin](https://www.kucoin.com/es/trade/SMH-USDT)
 - [SafeTrade](https://safe.trade/exchange/SMH-USDT?type=basic)
 - [xt.com](https://www.xt.com/en/trade/smh_usdt)
 
