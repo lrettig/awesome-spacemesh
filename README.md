@@ -31,6 +31,12 @@ The following are official Spacemesh project resources:
 - [Outline of the Spacemesh VM Design](https://spacemesh.io/blog/outline-of-the-spacemesh-vm-design/)
 - [Spacemesh Issuance Schedule](https://spacemesh.io/blog/spacemesh-issuance-schedule/)
 
+## Athena VM
+- [Project updates](https://www.athenavm.org/)
+- [GitHub organization](https://github.com/athenavm)
+- [Main repository](https://github.com/athenavm/athena)
+- [Project boards](https://github.com/athenavm/athena/projects?query=is%3Aopen)
+
 The following are unofficial community contributions. Note: I cannot vouch for the accuracy or security of any of these resources. Do your own research and use with caution!
 
 ## Articles
