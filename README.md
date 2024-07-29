@@ -51,6 +51,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Economics
 - [Spacemesh Calculator](https://www.spacemeshcalculator.com/)
+- [Spacemesh Tokenomics](https://www.smhtokenomics.com/) (economics visualization tool)
 
 ## Exchanges
 - [BingX](https://bingx.com/en-us/spot/SMHUSDT/)
