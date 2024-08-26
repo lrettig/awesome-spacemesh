@@ -91,6 +91,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 
 ## Utilities
 - [Calendar](https://calendar.google.com/calendar/embed?src=8895d862c4a9ac22c8da2dafd9c618cd47e5c2d22905f920b1231a3b02aacd62%40group.calendar.google.com) (Contains epochs, PoET rounds, etc.)
+- [Export data scripts](https://github.com/tjb-altf4/spacemesh) (Export eligibilities, rewards, transactions, and more)
 - [plotmon](https://github.com/hakehardware/plotmon) (Monitors a Spacemesh Plotter)
 - [PowerScript (Windows)](https://github.com/xeliuqa/PowerScript)
 - [shibamesh-post-key-generator](https://github.com/DogeMonster/shibamesh-post-key-generator)
