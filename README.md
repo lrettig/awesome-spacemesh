@@ -100,6 +100,7 @@ The following are unofficial community contributions. Note: I cannot vouch for t
 - [Smesh Planner](https://plan.smesh.online/) (Estimate proof generation time, required drive read speed, etc.)
 - [sm-multi-gpu-init](https://github.com/Stizerg/sm-multi-gpu-init) (Script to perform multi-GPU init on Ubuntu)
 - [SpaceMesh Lamba Chunks/SMEligibilities](http://fcmx.net/sm-eligibilities/) (Reward tracker)
+- [spacemesh-psm](https://github.com/tjb-altf4/spacemesh-psm) (post-service orchestration and monitoring for Docker, cross-platform)
 - [spuds](https://github.com/hakehardware/spuds) (Track Layers and Rewards in Grafana - Spuds)
 
 ## Videos
