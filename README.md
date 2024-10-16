@@ -25,6 +25,7 @@ The following are official Spacemesh project resources:
 ## Official Wallets
 - [Smapp](https://github.com/spacemeshos/smapp/releases)
 - [`smcli`](https://github.com/spacemeshos/smcli/releases)
+- [Web wallet](https://wallet.spacemesh.io/)
 
 ## Official Announcements/Blog Posts
 - [Announcing the Spacemesh Economic Model](https://spacemesh.io/blog/spacemesh-economics-intro/)
@@ -37,7 +38,9 @@ The following are official Spacemesh project resources:
 - [Main repository](https://github.com/athenavm/athena)
 - [Project boards](https://github.com/athenavm/athena/projects?query=is%3Aopen)
 
-The following are unofficial community contributions. Note: I cannot vouch for the accuracy or security of any of these resources. Do your own research and use with caution!
+# Community contributions
+
+The following are unofficial community contributions. Note: I cannot vouch for the accuracy or security of any of these resources. Most have not been tested or audited. **Do your own research and use with caution!**
 
 ## Articles
 - [Enabling Systemd for Go Spacemesh](https://hakedev.substack.com/p/enabling-systemd-for-go-spacemesh)
